@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/frontend-mentor23/social-link-profile)
-- Live Site URL: [Add live site URL here](https://frontend-mentor23.github.io/social-link-profile/)
+- Solution URL: [Solution URL](https://github.com/frontend-mentor23/social-link-profile)
+- Live Site URL: [Live site](https://frontend-mentor23.github.io/social-link-profile/)
 
 ## My process
 
