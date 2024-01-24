@@ -1,0 +1,70 @@
+body {
+  min-height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: "Inter", sans-serif;
+  background-color: #141414;
+}
+
+.card {
+  width: 296px;
+  margin-inline: auto;
+  padding: 32px;
+  background-color: #1f1f1f;
+  border-radius: 6px;
+}
+
+.avatar {
+  display: block;
+  width: 68px;
+  margin-inline: auto;
+  border-radius: 50%;
+  margin-bottom: 26px;
+}
+
+.fullname {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.location {
+  color: #c9f536;
+  text-align: center;
+  font-weight: 500;
+  font-size: 12px;
+  margin-bottom: 24px;
+}
+
+.specialization {
+  text-align: center;
+  color: #cacaca;
+  font-size: 12px;
+  margin-bottom: 22px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+
+.link {
+  display: block;
+  padding: 12px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  background-color: #333333;
+  border-radius: 8px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.link:hover {
+  background-color: #c9f536;
+  color: black;
+}
